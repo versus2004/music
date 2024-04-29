@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="barishon_mein">Baarishon Mein</string>
+    <string name="hale_dil">Hale dil</string>
+
+    <string name="the_night_we_met">The Night We Met</string>
+
+    <string name="pehle_bhi_main">Pehle Bhi Main</string>
+
+    <string name="main_agar_kahoon">Main Agar Kahoon</string>
+
+    <string name="sanam_re">Sanam re</string>
+</resources>
